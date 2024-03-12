@@ -65,10 +65,12 @@ header h3 {
 
 .body-container .first-label {
   color: yellow;
+  text-shadow: 5px 5px 5px purple;
 }
 
 .body-container .second-label {
   color: purple;
+  text-shadow: 5px 5px 5px yellow;
 }
 
 .body-container .label {
